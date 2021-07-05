@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-remark-vscode",
+  "name": "@codepunkt/gatsby-remark-vscode",
   "version": "3.2.1",
   "description": "Gatsby plugin to provide VS Code’s syntax highlighting to Markdown code fences",
   "main": "index.js",
